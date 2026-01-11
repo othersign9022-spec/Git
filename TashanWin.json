@@ -1,0 +1,17 @@
+{
+  "matching_urls": [
+    "https://tashanwin27.com/#/wallet",
+    "https://tashanwin27.com/#/wallet/recharge",
+    "https://tashanwin27.com/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo",
+    "https://tashanwin27.com/#/saasLottery/TrxWinGo?gameCode=TrxWinGo_1M&lottery=TrxWinGo",
+    "https://tashanwin27.com/#/saasLottery/D5?gameCode=D5_1M&lottery=D5",
+    "https://tashanwin27.com/#/saasLottery/K3?gameCode=K3_1M&lottery=K3"
+  ],
+  "deposit_url": "https://tashanwin27.com/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo",
+  "login_url": "https://tashanwin27.com/#/login",
+  "register_url": "https://tashanwin27.com/#/register?invitationCode=73728400111",
+  "telegram_url": "https://t.me/vishuskills",
+  "home_url": "https://tashanwin27.com/#/",
+  "minimum_deposit": 200,
+  "minimum_deposit_number": 200
+}
